@@ -1,0 +1,23 @@
+{
+  "name": "react-profile-icons",
+  "version": "0.0.1",
+  "description": "React components for social media profile icons.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/react-profile-icons.git"
+  },
+  "author": {
+    "name": "João Palmeiro",
+    "email": "jm.palmeiro@campus.fct.unl.pt",
+    "url": "https://joaopalmeiro.github.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/react-profile-icons/issues"
+  },
+  "homepage": "https://github.com/joaopalmeiro/react-profile-icons#readme",
+  "volta": {
+    "node": "16.14.0",
+    "npm": "8.3.1"
+  }
+}
