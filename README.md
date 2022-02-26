@@ -12,7 +12,7 @@ React components for social media profile icons.
 
 ### Licenses, Copyrights, and Trademarks
 
-The `react-profile-icons` project provides data on the license under which each logo is available. Please consider this when using a logo. Licenses can be accessed from the [`react-profile-icons` website](https://main--61c8b6061e29e7003adaae54.chromatic.com/).
+The `react-profile-icons` project provides data on the license under which each logo is available. Please consider this when using a logo. Licenses can be accessed from the `react-profile-icons` website.
 
 Please note that adding licenses to the `react-profile-icons` project is an ongoing effort. Hence, the absence of license data for a particular logo does not imply that the logo is not released under a license.
 
