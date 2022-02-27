@@ -35,3 +35,8 @@ If you find any logo or information that needs updating, please [submit an issue
 ### Removals
 
 If one of the logos should be removed from the `react-profile-icons` project, please [submit an issue](https://github.com/joaopalmeiro/react-profile-icons/issues) to the [`react-profile-icons` GitHub repository](https://github.com/joaopalmeiro/react-profile-icons). In the issue, explain the reasons for the removal, please.
+
+## References
+
+- Twitter [logo](https://about.twitter.com/en/who-we-are/brand-toolkit).
+- Mastodon [logo](https://joinmastodon.org/press-kit.zip).
